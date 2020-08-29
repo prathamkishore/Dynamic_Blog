@@ -5,12 +5,12 @@
     "local_uri": "mysql://root:@localhost/web1",
     "prod_uri": "mysql://root:@localhost/web1",
     "gmail-user": "prathamkishore47@gmail.com",
-    "gmail-pass": "Pkishore@2605",
+    "gmail-pass": "xyz",
     "no_of_posts":3,
     "posts":1000,
     "login_img":"login.jpg",
     "admin_user":"Pratham",
-    "admin_pass": "1234567890",
+    "admin_pass": "xyz",
     "upload_location": "C:\\Users\\hp\\PycharmProjects\\flask-tut\\static"
   }
 }
